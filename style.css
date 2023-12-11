@@ -247,6 +247,7 @@
     align-items: center;
     gap: 50px;
     margin-top: 28px;
+    position: relative;
 }
 
 #second-screen .col-left .logo img:nth-child(1) {
